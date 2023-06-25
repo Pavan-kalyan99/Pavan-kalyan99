@@ -13,7 +13,7 @@
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   
-  <h1 style="align-items:center">Hi 👋, I'm Pavan kalyan Bavisetti</h1>
+  <h1 style="align-items:center">Hi 👋, I'm Pavan Kalyan Bavisetti</h1>
   <h3 style="align-items:center">A passionate MERN developer from India</h3>
   <img style="float: right;" alt="pic" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   <p style="align-items:left"> <img src="https://komarev.com/ghpvc/?username=bavisetti-pavankalyan-425045229&label=Profile%20views&color=0e75b6&style=flat" alt="bavisetti-pavankalyan-425045229" /> </p>
