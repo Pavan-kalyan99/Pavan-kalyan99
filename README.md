@@ -15,7 +15,7 @@
   
   <h1 style="align-items:center">Hi 👋, I'm Pavan Kalyan Bavisetti</h1>
   <h3 style="align-items:center">A passionate MERN developer from India</h3>
-  <img style="float: right;" alt="pic" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  <img style="float: right;border-image:fill 0 linear-gradient(#0003,#000)" alt="pic" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   <p style="align-items:left"> <img src="https://komarev.com/ghpvc/?username=bavisetti-pavankalyan-425045229&label=Profile%20views&color=0e75b6&style=flat" alt="bavisetti-pavankalyan-425045229" /> </p>
   
   <!-- <p style="align-items:center"> <a href="https://github.com//github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bavisetti-pavankalyan-425045229" alt="bavisetti-pavankalyan-425045229" /></a> </p> -->
