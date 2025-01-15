@@ -22,7 +22,7 @@
   
   - 🔭 I’m currently working on **Backend development**
   
-  - 👨‍💻 All of my projects are available at : [https://pavan-kalyan99.github.io/portfolio/](https://pavan-kalyan99.github.io/portfolio/)
+  - 👨‍💻 All of my projects are available at : [https://pavan-kalyan99.github.io/portfolio/](https://pavan-kalyan99.github.io/myportfolio/)
   
   - 💬 Ask me about: **Javascript,React**
   
